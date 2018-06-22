@@ -1,0 +1,29 @@
+#### File Sync Clearly ####
+__________________________________________________
+|                                          - || X|
+|--------------File Sync Clearly-----------------|
+|                                                |
+|   -Folders-       -status-       <Sync>        |
+|  o - folder1      up to date     <Compare>     |
+|  o - folder2      4 files        <Schedule>    |
+|  o - folder3      up to date                   |
+|  o - folder4      up to date                   |
+|  o - folder5      12 files                     |
+| <Add Folder>                                   |
+| <Remove Folder>                  <Exit>        |
+|                                                |
+|------------------------------------------------|
+
+def syncFiles():
+
+def compareFolders():
+
+def scheduleSync():
+
+### GUI Functions ###
+
+def listFoldersAndStatus()
+
+def addFolder()
+
+def removeFolder()
